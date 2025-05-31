@@ -215,10 +215,10 @@ $$\underset{R}\iint{f(x, y)\space dA = \int_b^a \int_{g_1(x)}^{g_2(x)}f(x, y)dy 
 2- If $R$ is defined by $c \leq y \leq d, h_1(y) \leq x \leq h_2(y)$ with $h_1$ and $h_2$ continuous on $[c, d]$, then
 $$\underset{R}\iint{f(x, y)\space dA = \int_c^d \int_{h_1(x)}^{h_2(x)}f(x, y)dx \space dy}$$
 
-If you slice **vertically** integrate **y** first.
+If you slice **vertically** integrate **y** first. For each fixed $x$, you walk from $y = c$ to $y = d$ mesauring the height $f(x, y)$ above as you go. Then you sum up this "vertical strip" (area under the curve for fixed. Then you take $x + dx$ covering $[a, b]$.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTkzOTUxOTUsNTA0MDAyMTUyLC00Nz
+eyJoaXN0b3J5IjpbLTEyOTMwMDMyNTgsNTA0MDAyMTUyLC00Nz
 Y1MTY1OCwtNzAwODY3NDc5LDU2MjYxNDE1LDI5OTI4NjkzNyw1
 OTI1Nzc5NzEsLTE0MTI3ODY1NTNdfQ==
 -->
