@@ -201,8 +201,9 @@ Chapter 15
 ----
 **Multiple Integrals**
 
+**Fubini's Theorem (Fi
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyNjE0MTUsMjk5Mjg2OTM3LDU5MjU3Nz
-k3MSwtMTQxMjc4NjU1M119
+eyJoaXN0b3J5IjpbLTI1MzQ5NzE5OSw1NjI2MTQxNSwyOTkyOD
+Y5MzcsNTkyNTc3OTcxLC0xNDEyNzg2NTUzXX0=
 -->
