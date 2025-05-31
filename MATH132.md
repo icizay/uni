@@ -206,7 +206,11 @@ General idea is similar to Riemann integrals for one variable, but it requires t
 If $f(x, y)$ is continuous throughout the rectangular region $R: a \leq x \leq b, c \leq y \leq d$, then
 $$\underset{R}\iint{f(x, y)\space dA} = \int_{c}^{d}\int_{a}^{b}f(x,y)\space dx\space dy = \int_{b}^{a}\int_{d}^{c}f(x,y)\space dy\space dx$$
 
+**Double Integrals over General Regions**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMDg2NzQ3OSw1NjI2MTQxNSwyOTkyOD
-Y5MzcsNTkyNTc3OTcxLC0xNDEyNzg2NTUzXX0=
+eyJoaXN0b3J5IjpbLTQ3NjUxNjU4LC03MDA4Njc0NzksNTYyNj
+E0MTUsMjk5Mjg2OTM3LDU5MjU3Nzk3MSwtMTQxMjc4NjU1M119
+
 -->
