@@ -211,10 +211,12 @@ $$\underset{R}\iint{f(x, y)\space dA} = \int_{c}^{d}\int_{a}^{b}f(x,y)\space dx\
 **Fubini's Theorem (Stronger Form)**
 Let $f(x, y)$ be continuous on a region $R$.
 1- If $R$ is defined by $a \leq x \leq b, g_1(x) \leq y \leq g_2(x)$ with $g_1$ and $g_2$ continuous on $[a, b]$, then
-$$\underset{R}\iint{f(x, y)\space dA = \int_b^a \int_{g_1(x)}^{g_2(x)}{f(x, y)dy \space dx}$$
+$$\underset{R}\iint{f(x, y)\space dA = \int_b^a \int_{g_1(x)}^{g_2(x)}f(x, y)dy \space dx}$$
+2- If $R$ is defined by $c \leq y \leq d, h_1(y) \leq x \leq h_2(y)$ with $h_1$ and $h_2$ continuous on $[c, d]$, then
+$$\underset{R}\iint{f(x, y)\space dA = \int_c^d \int_{h_1(x)}^{h_2(x)}f(x, y)dx \space dy}$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3OTY3MzU5LC00NzY1MTY1OCwtNzAwOD
+eyJoaXN0b3J5IjpbNTA0MDAyMTUyLC00NzY1MTY1OCwtNzAwOD
 Y3NDc5LDU2MjYxNDE1LDI5OTI4NjkzNyw1OTI1Nzc5NzEsLTE0
 MTI3ODY1NTNdfQ==
 -->
