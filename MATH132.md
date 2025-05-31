@@ -194,6 +194,8 @@ $$g(x, y, z) = 0$$
 If the constraints are $g_1(x, y, z) = 0$ and $g_2(x, y, z) = 0$ and $g_1$ and $g_2$ are differentiable, with $\nabla g_1$ not paralel to $\nabla g_2$, we find the constrained local maxima and minima of $f$ by introducing two Lagrange multipliers with $\lambda$ and $\mu$.
 $$\boxed{\nabla f = \lambda \nabla g_1 + \mu \nabla g_2}$$ $$\boxed{g_1(x, y, z) = 0}$$$$\boxed{g_2(x, y, z) = 0}$$
 
+**
+
 **Taylor's Formula for Two Variables**
 not included in syllabus, check later though
 
@@ -203,6 +205,6 @@ Chapter 15
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk5Mjg2OTM3LDU5MjU3Nzk3MSwtMTQxMj
-c4NjU1M119
+eyJoaXN0b3J5IjpbLTkwNjI3ODM0NywyOTkyODY5MzcsNTkyNT
+c3OTcxLC0xNDEyNzg2NTUzXX0=
 -->
