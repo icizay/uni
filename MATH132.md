@@ -208,9 +208,12 @@ $$\underset{R}\iint{f(x, y)\space dA} = \int_{c}^{d}\int_{a}^{b}f(x,y)\space dx\
 
 **Double Integrals over General Regions**
 
+**Fubini's Theorem (Stronger Form)**
+Let $f(x, y)$ be continuous on a region $R$.
+1- If $R$ is defined by $a \leq x \leq b, g_1(x) \leq y \leq g_2(x)$ with $g_1$ and $g_2$ continuous on $[a,
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjUxNjU4LC03MDA4Njc0NzksNTYyNj
-E0MTUsMjk5Mjg2OTM3LDU5MjU3Nzk3MSwtMTQxMjc4NjU1M119
-
+eyJoaXN0b3J5IjpbMTU3MTM5Mjg2NSwtNDc2NTE2NTgsLTcwMD
+g2NzQ3OSw1NjI2MTQxNSwyOTkyODY5MzcsNTkyNTc3OTcxLC0x
+NDEyNzg2NTUzXX0=
 -->
