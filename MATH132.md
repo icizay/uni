@@ -201,9 +201,11 @@ Chapter 15
 ----
 **Multiple Integrals**
 
-**Fubini's Theorem (Fi
+**Fubini's Theorem (First Form)**
+If $f(x, y)$ is continuous throughout the rectangular region $R: a \leq x \leq b, c \leq y \leq d$, then
+$\iint
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzQ5NzE5OSw1NjI2MTQxNSwyOTkyOD
-Y5MzcsNTkyNTc3OTcxLC0xNDEyNzg2NTUzXX0=
+eyJoaXN0b3J5IjpbLTU1NjQzODQxLDU2MjYxNDE1LDI5OTI4Nj
+kzNyw1OTI1Nzc5NzEsLTE0MTI3ODY1NTNdfQ==
 -->
