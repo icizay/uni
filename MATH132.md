@@ -215,8 +215,10 @@ $$\underset{R}\iint{f(x, y)\space dA = \int_b^a \int_{g_1(x)}^{g_2(x)}f(x, y)dy 
 2- If $R$ is defined by $c \leq y \leq d, h_1(y) \leq x \leq h_2(y)$ with $h_1$ and $h_2$ continuous on $[c, d]$, then
 $$\underset{R}\iint{f(x, y)\space dA = \int_c^d \int_{h_1(x)}^{h_2(x)}f(x, y)dx \space dy}$$
 
+If you slice **vertically** integrate **y** first.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0MDAyMTUyLC00NzY1MTY1OCwtNzAwOD
-Y3NDc5LDU2MjYxNDE1LDI5OTI4NjkzNyw1OTI1Nzc5NzEsLTE0
-MTI3ODY1NTNdfQ==
+eyJoaXN0b3J5IjpbLTEwMTkzOTUxOTUsNTA0MDAyMTUyLC00Nz
+Y1MTY1OCwtNzAwODY3NDc5LDU2MjYxNDE1LDI5OTI4NjkzNyw1
+OTI1Nzc5NzEsLTE0MTI3ODY1NTNdfQ==
 -->
