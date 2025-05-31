@@ -203,9 +203,9 @@ Chapter 15
 
 **Fubini's Theorem (First Form)**
 If $f(x, y)$ is continuous throughout the rectangular region $R: a \leq x \leq b, c \leq y \leq d$, then
-$$\underset{R}\iint{f(x, y)dA} = \int_{c}^{d}$$
+$$\underset{R}\iint{f(x, y)\space dA} = \int_{c}^{d}\int_{a}^{b}f(x,y)\space dx\space dy = \int_{b}^{a}\int_{d}^{c}f(x,y)\space dy\space dx$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk5MDY0MjA4LDU2MjYxNDE1LDI5OTI4Nj
-kzNyw1OTI1Nzc5NzEsLTE0MTI3ODY1NTNdfQ==
+eyJoaXN0b3J5IjpbNjY1NDkyMiw1NjI2MTQxNSwyOTkyODY5Mz
+csNTkyNTc3OTcxLC0xNDEyNzg2NTUzXX0=
 -->
