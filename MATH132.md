@@ -203,9 +203,9 @@ Chapter 15
 
 **Fubini's Theorem (First Form)**
 If $f(x, y)$ is continuous throughout the rectangular region $R: a \leq x \leq b, c \leq y \leq d$, then
-$\iint
+$$\underset{R}\iint{f(x, y)dA} = \int_{c}^{d}$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NjQzODQxLDU2MjYxNDE1LDI5OTI4Nj
+eyJoaXN0b3J5IjpbNDk5MDY0MjA4LDU2MjYxNDE1LDI5OTI4Nj
 kzNyw1OTI1Nzc5NzEsLTE0MTI3ODY1NTNdfQ==
 -->
