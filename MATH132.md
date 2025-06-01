@@ -230,12 +230,16 @@ Chapter 11
 $$ \boxed{x = r\cos\theta, y = r\sin\theta, r^2=x^2+y^2, \tan\theta = \frac{y}{x}}$$
 **Symmetry**
 About the x axis:
-$(r, -\theta) \right
+$(r, \theta) \rightarrow (r, -\theta)$ or $(-r, \pi - \theta)$
+About the y axis:
+$(r, \theta) \rightarrow (-r, \theta)$ or $(r, \theta + \pi)$
+About the origin:
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2MzMzNDUsLTQ2MTExNTkzNiwtMTkxMD
-I1MjM4OSwtNjcxODUzODY5LDEwODI5NDEzMjcsLTEyOTMwMDMy
-NTgsNTA0MDAyMTUyLC00NzY1MTY1OCwtNzAwODY3NDc5LDU2Mj
-YxNDE1LDI5OTI4NjkzNyw1OTI1Nzc5NzEsLTE0MTI3ODY1NTNd
-fQ==
+eyJoaXN0b3J5IjpbLTczMTU2NzIxNiwtNDYxMTE1OTM2LC0xOT
+EwMjUyMzg5LC02NzE4NTM4NjksMTA4Mjk0MTMyNywtMTI5MzAw
+MzI1OCw1MDQwMDIxNTIsLTQ3NjUxNjU4LC03MDA4Njc0NzksNT
+YyNjE0MTUsMjk5Mjg2OTM3LDU5MjU3Nzk3MSwtMTQxMjc4NjU1
+M119
 -->
