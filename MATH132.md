@@ -227,10 +227,15 @@ $$= \frac{1}{A} \underset{R}\iint{fdA}$$
 
 Chapter 11
 --
+$$ \boxed{x = r\cos\theta, y = r\sin\theta, r^2=x^2+y^2, \tan\theta = \frac{y}{x}}$$
+**Symmetry**
+About the x axis:
+$(r, -\theta) \right
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTExNTkzNiwtMTkxMDI1MjM4OSwtNj
-cxODUzODY5LDEwODI5NDEzMjcsLTEyOTMwMDMyNTgsNTA0MDAy
-MTUyLC00NzY1MTY1OCwtNzAwODY3NDc5LDU2MjYxNDE1LDI5OT
-I4NjkzNyw1OTI1Nzc5NzEsLTE0MTI3ODY1NTNdfQ==
+eyJoaXN0b3J5IjpbNzk2MzMzNDUsLTQ2MTExNTkzNiwtMTkxMD
+I1MjM4OSwtNjcxODUzODY5LDEwODI5NDEzMjcsLTEyOTMwMDMy
+NTgsNTA0MDAyMTUyLC00NzY1MTY1OCwtNzAwODY3NDc5LDU2Mj
+YxNDE1LDI5OTI4NjkzNyw1OTI1Nzc5NzEsLTE0MTI3ODY1NTNd
+fQ==
 -->
