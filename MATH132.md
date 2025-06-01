@@ -268,13 +268,13 @@ $$\left( \frac{dx}{d\theta} \right)^2 + \left( \frac{dy}{d\theta} \right)^2 = \l
 $$L = \int_{a}^{b} \sqrt{[r(\theta)]^2 + \left( \frac{dr}{d\theta} \right)^2} \; d\theta$$
 $r = f(\theta)$ from $\theta = a$ to $\theta = b$
 
-**11.5-9** yapamadım alan hesaplamalarında bir sıkıntı var çözemedim, bu ve bundan sonraki sorulara bak öğren! 
+**11.5-9** yapamadım alan hesaplamalarında bir sıkıntı var çözemedim, bu ve bundan sonraki sorulara bak öğren! sf. 685
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTc5NzY5MjksLTE5OTA0NzA2NTQsLT
-E0ODgyNzMyMzYsMTIxMTIzNDk3OCwtMzA0OTA0MjYsLTE1NjA4
-MTA3OTEsMTAyMjkwNyw2OTA2Mjc4NTIsNjg2ODM0NzMsLTQ2MT
-ExNTkzNiwtMTkxMDI1MjM4OSwtNjcxODUzODY5LDEwODI5NDEz
-MjcsLTEyOTMwMDMyNTgsNTA0MDAyMTUyLC00NzY1MTY1OCwtNz
-AwODY3NDc5LDU2MjYxNDE1LDI5OTI4NjkzNyw1OTI1Nzc5NzFd
-fQ==
+eyJoaXN0b3J5IjpbNDIwOTM4NDM5LC0xOTkwNDcwNjU0LC0xND
+g4MjczMjM2LDEyMTEyMzQ5NzgsLTMwNDkwNDI2LC0xNTYwODEw
+NzkxLDEwMjI5MDcsNjkwNjI3ODUyLDY4NjgzNDczLC00NjExMT
+U5MzYsLTE5MTAyNTIzODksLTY3MTg1Mzg2OSwxMDgyOTQxMzI3
+LC0xMjkzMDAzMjU4LDUwNDAwMjE1MiwtNDc2NTE2NTgsLTcwMD
+g2NzQ3OSw1NjI2MTQxNSwyOTkyODY5MzcsNTkyNTc3OTcxXX0=
+
 -->
