@@ -248,10 +248,12 @@ About the y axis:
 Replace $\theta$ with $\pi - \theta$
 About the origin:
 Replace $r$ with $-r$ or $\theta$ with $\theta + \pi$
+
+**Areas and Lenght
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjkwNyw2OTA2Mjc4NTIsNjg2ODM0Nz
-MsLTQ2MTExNTkzNiwtMTkxMDI1MjM4OSwtNjcxODUzODY5LDEw
-ODI5NDEzMjcsLTEyOTMwMDMyNTgsNTA0MDAyMTUyLC00NzY1MT
-Y1OCwtNzAwODY3NDc5LDU2MjYxNDE1LDI5OTI4NjkzNyw1OTI1
-Nzc5NzEsLTE0MTI3ODY1NTNdfQ==
+eyJoaXN0b3J5IjpbMzk0MjQxMDc4LDEwMjI5MDcsNjkwNjI3OD
+UyLDY4NjgzNDczLC00NjExMTU5MzYsLTE5MTAyNTIzODksLTY3
+MTg1Mzg2OSwxMDgyOTQxMzI3LC0xMjkzMDAzMjU4LDUwNDAwMj
+E1MiwtNDc2NTE2NTgsLTcwMDg2NzQ3OSw1NjI2MTQxNSwyOTky
+ODY5MzcsNTkyNTc3OTcxLC0xNDEyNzg2NTUzXX0=
 -->
