@@ -260,12 +260,13 @@ Obviously, $r_2(\theta)$ is the outer curve.
 
 **Length of a Polar Curve**
 $$L = \int_{a}^{b} \sqrt{[r(\theta)]^2 + \left( \frac{dr}{d\theta} \right)^2} \; d\theta$$
-$r = f(\theta)$ from $\theta = a$ to $\theta = b$ 
+$r = f(\theta)$ from $\theta = a$ to $\theta = b$
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODQ4NDcwODgsLTMwNDkwNDI2LC0xNT
-YwODEwNzkxLDEwMjI5MDcsNjkwNjI3ODUyLDY4NjgzNDczLC00
-NjExMTU5MzYsLTE5MTAyNTIzODksLTY3MTg1Mzg2OSwxMDgyOT
-QxMzI3LC0xMjkzMDAzMjU4LDUwNDAwMjE1MiwtNDc2NTE2NTgs
-LTcwMDg2NzQ3OSw1NjI2MTQxNSwyOTkyODY5MzcsNTkyNTc3OT
-cxLC0xNDEyNzg2NTUzXX0=
+eyJoaXN0b3J5IjpbMTIxMTIzNDk3OCwtMzA0OTA0MjYsLTE1Nj
+A4MTA3OTEsMTAyMjkwNyw2OTA2Mjc4NTIsNjg2ODM0NzMsLTQ2
+MTExNTkzNiwtMTkxMDI1MjM4OSwtNjcxODUzODY5LDEwODI5ND
+EzMjcsLTEyOTMwMDMyNTgsNTA0MDAyMTUyLC00NzY1MTY1OCwt
+NzAwODY3NDc5LDU2MjYxNDE1LDI5OTI4NjkzNyw1OTI1Nzc5Nz
+EsLTE0MTI3ODY1NTNdfQ==
 -->
