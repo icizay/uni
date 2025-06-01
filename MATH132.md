@@ -247,11 +247,11 @@ Replace $\theta$ with $-\theta$
 About the y axis:
 Replace $\theta$ with $\pi - \theta$
 About the origin:
-Replace $r$ with $-r$ or $\theta$ with $\theta + \pi$
+Replace $r$ with $-r$ or $\theta$ with $\theta + \dopi$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjkwNyw2OTA2Mjc4NTIsNjg2ODM0Nz
-MsLTQ2MTExNTkzNiwtMTkxMDI1MjM4OSwtNjcxODUzODY5LDEw
-ODI5NDEzMjcsLTEyOTMwMDMyNTgsNTA0MDAyMTUyLC00NzY1MT
-Y1OCwtNzAwODY3NDc5LDU2MjYxNDE1LDI5OTI4NjkzNyw1OTI1
-Nzc5NzEsLTE0MTI3ODY1NTNdfQ==
+eyJoaXN0b3J5IjpbMTc2Mjg0MDY0Niw2OTA2Mjc4NTIsNjg2OD
+M0NzMsLTQ2MTExNTkzNiwtMTkxMDI1MjM4OSwtNjcxODUzODY5
+LDEwODI5NDEzMjcsLTEyOTMwMDMyNTgsNTA0MDAyMTUyLC00Nz
+Y1MTY1OCwtNzAwODY3NDc5LDU2MjYxNDE1LDI5OTI4NjkzNyw1
+OTI1Nzc5NzEsLTE0MTI3ODY1NTNdfQ==
 -->
