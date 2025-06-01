@@ -218,9 +218,10 @@ $$\underset{R}\iint{f(x, y)\space dA = \int_c^d \int_{h_1(x)}^{h_2(x)}f(x, y)dx 
 If you slice **vertically** integrate **y** first. For each fixed $x$, you walk from $y = c$ to $y = d$ mesauring the height $f(x, y)$ above as you go. Then you sum up this "vertical strip" (area under the curve for fixed. Then you take $x + dx$ covering $[a, b]$.
 Then it is $dydx$
 
-
+**15.3 Area by Double Integration**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4Mjk0MTMyNywtMTI5MzAwMzI1OCw1MD
-QwMDIxNTIsLTQ3NjUxNjU4LC03MDA4Njc0NzksNTYyNjE0MTUs
-Mjk5Mjg2OTM3LDU5MjU3Nzk3MSwtMTQxMjc4NjU1M119
+eyJoaXN0b3J5IjpbLTY3MTg1Mzg2OSwxMDgyOTQxMzI3LC0xMj
+kzMDAzMjU4LDUwNDAwMjE1MiwtNDc2NTE2NTgsLTcwMDg2NzQ3
+OSw1NjI2MTQxNSwyOTkyODY5MzcsNTkyNTc3OTcxLC0xNDEyNz
+g2NTUzXX0=
 -->
