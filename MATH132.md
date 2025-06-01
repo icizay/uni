@@ -249,11 +249,12 @@ Replace $\theta$ with $\pi - \theta$
 About the origin:
 Replace $r$ with $-r$ or $\theta$ with $\theta + \pi$
 
-**Areas and Lenght
+**Areas and Lenghts in Polar Coordinates**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0MjQxMDc4LDEwMjI5MDcsNjkwNjI3OD
-UyLDY4NjgzNDczLC00NjExMTU5MzYsLTE5MTAyNTIzODksLTY3
-MTg1Mzg2OSwxMDgyOTQxMzI3LC0xMjkzMDAzMjU4LDUwNDAwMj
-E1MiwtNDc2NTE2NTgsLTcwMDg2NzQ3OSw1NjI2MTQxNSwyOTky
-ODY5MzcsNTkyNTc3OTcxLC0xNDEyNzg2NTUzXX0=
+eyJoaXN0b3J5IjpbLTE1NjA4MTA3OTEsMTAyMjkwNyw2OTA2Mj
+c4NTIsNjg2ODM0NzMsLTQ2MTExNTkzNiwtMTkxMDI1MjM4OSwt
+NjcxODUzODY5LDEwODI5NDEzMjcsLTEyOTMwMDMyNTgsNTA0MD
+AyMTUyLC00NzY1MTY1OCwtNzAwODY3NDc5LDU2MjYxNDE1LDI5
+OTI4NjkzNyw1OTI1Nzc5NzEsLTE0MTI3ODY1NTNdfQ==
 -->
