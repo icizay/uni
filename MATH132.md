@@ -258,11 +258,14 @@ Area between two polar curves $r_1(\theta)$ and $r_2(\theta)$ from $\theta = A$ 
 $$\text{Area} = \frac{1}{2} \int_{A}^{B} \left( [r_2(\theta)]^2 - [r_1(\theta)]^2 \right) d\theta$$
 Obviously, $r_2(\theta)$ is the outer curve.
 
+**Length of a Polar Curve**
+$$L = \int_{a}^{b} \sqrt{[r(\theta)]^2 + \left( \frac{dr}{d\theta} \right)^2} \; d\theta$$
+$r = f(\theta)$ from $\theta = a$ to $\theta = b$ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDkwNDI2LC0xNTYwODEwNzkxLDEwMj
-I5MDcsNjkwNjI3ODUyLDY4NjgzNDczLC00NjExMTU5MzYsLTE5
-MTAyNTIzODksLTY3MTg1Mzg2OSwxMDgyOTQxMzI3LC0xMjkzMD
-AzMjU4LDUwNDAwMjE1MiwtNDc2NTE2NTgsLTcwMDg2NzQ3OSw1
-NjI2MTQxNSwyOTkyODY5MzcsNTkyNTc3OTcxLC0xNDEyNzg2NT
-UzXX0=
+eyJoaXN0b3J5IjpbLTEyODQ4NDcwODgsLTMwNDkwNDI2LC0xNT
+YwODEwNzkxLDEwMjI5MDcsNjkwNjI3ODUyLDY4NjgzNDczLC00
+NjExMTU5MzYsLTE5MTAyNTIzODksLTY3MTg1Mzg2OSwxMDgyOT
+QxMzI3LC0xMjkzMDAzMjU4LDUwNDAwMjE1MiwtNDc2NTE2NTgs
+LTcwMDg2NzQ3OSw1NjI2MTQxNSwyOTkyODY5MzcsNTkyNTc3OT
+cxLC0xNDEyNzg2NTUzXX0=
 -->
