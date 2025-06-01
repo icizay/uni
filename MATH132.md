@@ -219,9 +219,10 @@ If you slice **vertically** integrate **y** first. For each fixed $x$, you walk 
 Then it is $dydx$
 
 **15.3 Area by Double Integration**
+If we take $f(x, y) = 1$, then we find the area of a closed, bounded plane region 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTg1Mzg2OSwxMDgyOTQxMzI3LC0xMj
-kzMDAzMjU4LDUwNDAwMjE1MiwtNDc2NTE2NTgsLTcwMDg2NzQ3
-OSw1NjI2MTQxNSwyOTkyODY5MzcsNTkyNTc3OTcxLC0xNDEyNz
-g2NTUzXX0=
+eyJoaXN0b3J5IjpbLTQ3MzgxNzg0MiwtNjcxODUzODY5LDEwOD
+I5NDEzMjcsLTEyOTMwMDMyNTgsNTA0MDAyMTUyLC00NzY1MTY1
+OCwtNzAwODY3NDc5LDU2MjYxNDE1LDI5OTI4NjkzNyw1OTI1Nz
+c5NzEsLTE0MTI3ODY1NTNdfQ==
 -->
