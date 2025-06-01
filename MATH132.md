@@ -250,11 +250,17 @@ About the origin:
 Replace $r$ with $-r$ or $\theta$ with $\theta + \pi$
 
 **Areas and Lenghts in Polar Coordinates**
+$$\text{Area} = \frac{1}{2} \int_{A}^{B} [f(\theta)]^2 d\theta$$
+from $\theta = A$ to $\theta = B$
 
+Area between two polar curves \( r_1(\theta) \) and \( r_2(\theta) \) from \( \theta = A \) to \( \theta = B \).
+
+\[ \text{Area} = \frac{1}{2} \int_{A}^{B} \left( [r_2(\theta)]^2 - [r_1(\theta)]^2 \right) d\theta \]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjA4MTA3OTEsMTAyMjkwNyw2OTA2Mj
-c4NTIsNjg2ODM0NzMsLTQ2MTExNTkzNiwtMTkxMDI1MjM4OSwt
-NjcxODUzODY5LDEwODI5NDEzMjcsLTEyOTMwMDMyNTgsNTA0MD
-AyMTUyLC00NzY1MTY1OCwtNzAwODY3NDc5LDU2MjYxNDE1LDI5
-OTI4NjkzNyw1OTI1Nzc5NzEsLTE0MTI3ODY1NTNdfQ==
+eyJoaXN0b3J5IjpbMjEzNzQ4MDc0OSwtMTU2MDgxMDc5MSwxMD
+IyOTA3LDY5MDYyNzg1Miw2ODY4MzQ3MywtNDYxMTE1OTM2LC0x
+OTEwMjUyMzg5LC02NzE4NTM4NjksMTA4Mjk0MTMyNywtMTI5Mz
+AwMzI1OCw1MDQwMDIxNTIsLTQ3NjUxNjU4LC03MDA4Njc0Nzks
+NTYyNjE0MTUsMjk5Mjg2OTM3LDU5MjU3Nzk3MSwtMTQxMjc4Nj
+U1M119
 -->
