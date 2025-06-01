@@ -219,9 +219,13 @@ If you slice **vertically** integrate **y** first. For each fixed $x$, you walk 
 Then it is $dydx$
 
 **15.3 Area by Double Integration**
-If we take $f(x, y) = 1$, then we find the area of a closed, bounded plane region 
+If we take $f(x, y) = 1$, then we find the area of a closed, bounded plane region R:
+$$A = \underset{R}\iint dA$$
+If we wish to find the average of a function, we simply total volume by the area, thus
+Average value of $f$ over $R$:
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzgxNzg0MiwtNjcxODUzODY5LDEwOD
+eyJoaXN0b3J5IjpbMTg2NTc5NjQ4NywtNjcxODUzODY5LDEwOD
 I5NDEzMjcsLTEyOTMwMDMyNTgsNTA0MDAyMTUyLC00NzY1MTY1
 OCwtNzAwODY3NDc5LDU2MjYxNDE1LDI5OTI4NjkzNyw1OTI1Nz
 c5NzEsLTE0MTI3ODY1NTNdfQ==
