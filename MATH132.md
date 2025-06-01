@@ -225,10 +225,12 @@ If we wish to find the average of a function, we simply total volume by the area
 Average value of $f$ over $R$:
 $$= \frac{1}{A} \underset{R}\iint{fdA}$$
 
-Chapter 1
+Chapter 11
+--
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjkzNjMyMDEsLTE5MTAyNTIzODksLT
-Y3MTg1Mzg2OSwxMDgyOTQxMzI3LC0xMjkzMDAzMjU4LDUwNDAw
-MjE1MiwtNDc2NTE2NTgsLTcwMDg2NzQ3OSw1NjI2MTQxNSwyOT
-kyODY5MzcsNTkyNTc3OTcxLC0xNDEyNzg2NTUzXX0=
+eyJoaXN0b3J5IjpbLTQ2MTExNTkzNiwtMTkxMDI1MjM4OSwtNj
+cxODUzODY5LDEwODI5NDEzMjcsLTEyOTMwMDMyNTgsNTA0MDAy
+MTUyLC00NzY1MTY1OCwtNzAwODY3NDc5LDU2MjYxNDE1LDI5OT
+I4NjkzNyw1OTI1Nzc5NzEsLTE0MTI3ODY1NTNdfQ==
 -->
