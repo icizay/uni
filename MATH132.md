@@ -240,10 +240,18 @@ Given $r = f(\theta)$
 $x = r\cos\theta$ and $y = r\sin\theta$
 $$\frac{dy}{dx} = \frac{\frac{dy}{d\theta}}{\frac{dx}{d\theta}} = \frac{ \frac{dr}{d\theta} \sin \theta + r \cos \theta }{ \frac{dr}{d\theta} \cos \theta - r \sin \theta }$$
 $$\frac{dy}{dx} = \frac{ f'(\theta) \sin \theta + f(\theta) \cos \theta }{ f'(\theta) \cos \theta - f(\theta) \sin \theta }$$
+
+**Symmetry tests**
+About the x axis:
+Replace $\theta$ with $-\theta$
+About the y axis:
+Replace $\theta$ with $\pi - \theta$
+About the origin:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwNjI3ODUyLDY4NjgzNDczLC00NjExMT
-U5MzYsLTE5MTAyNTIzODksLTY3MTg1Mzg2OSwxMDgyOTQxMzI3
-LC0xMjkzMDAzMjU4LDUwNDAwMjE1MiwtNDc2NTE2NTgsLTcwMD
-g2NzQ3OSw1NjI2MTQxNSwyOTkyODY5MzcsNTkyNTc3OTcxLC0x
-NDEyNzg2NTUzXX0=
+eyJoaXN0b3J5IjpbMTY5MjE3OTUzOSw2OTA2Mjc4NTIsNjg2OD
+M0NzMsLTQ2MTExNTkzNiwtMTkxMDI1MjM4OSwtNjcxODUzODY5
+LDEwODI5NDEzMjcsLTEyOTMwMDMyNTgsNTA0MDAyMTUyLC00Nz
+Y1MTY1OCwtNzAwODY3NDc5LDU2MjYxNDE1LDI5OTI4NjkzNyw1
+OTI1Nzc5NzEsLTE0MTI3ODY1NTNdfQ==
 -->
