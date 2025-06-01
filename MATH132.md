@@ -223,10 +223,10 @@ If we take $f(x, y) = 1$, then we find the area of a closed, bounded plane regio
 $$A = \underset{R}\iint dA$$
 If we wish to find the average of a function, we simply total volume by the area, thus
 Average value of $f$ over $R$:
-$$
+$$= \frac{1}{A} \underset{R}\iint{fdA}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NTc5NjQ4NywtNjcxODUzODY5LDEwOD
-I5NDEzMjcsLTEyOTMwMDMyNTgsNTA0MDAyMTUyLC00NzY1MTY1
-OCwtNzAwODY3NDc5LDU2MjYxNDE1LDI5OTI4NjkzNyw1OTI1Nz
-c5NzEsLTE0MTI3ODY1NTNdfQ==
+eyJoaXN0b3J5IjpbLTE5MTAyNTIzODksLTY3MTg1Mzg2OSwxMD
+gyOTQxMzI3LC0xMjkzMDAzMjU4LDUwNDAwMjE1MiwtNDc2NTE2
+NTgsLTcwMDg2NzQ3OSw1NjI2MTQxNSwyOTkyODY5MzcsNTkyNT
+c3OTcxLC0xNDEyNzg2NTUzXX0=
 -->
