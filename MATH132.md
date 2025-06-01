@@ -235,10 +235,14 @@ About the y axis:
 $(r, \theta) \rightarrow (r, \pi - \theta)$ or $(-r, -\theta)$
 About the origin:
 $(r, \theta) \rightarrow (-r, \theta)$ or $(r, \theta + \pi)$
+**Slope**
+Given $r = f(\theta)$
+$x = rcos\theta$ and $y = \
+$$\frac{dy}{dx} = \frac{\frac{dy}{d\theta}}{\frac{dx}{d\theta}} = \frac{ \frac{dr}{d\theta} \sin \theta + r \cos \theta }{ \frac{dr}{d\theta} \cos \theta - r \sin \theta }$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2ODM0NzMsLTQ2MTExNTkzNiwtMTkxMD
-I1MjM4OSwtNjcxODUzODY5LDEwODI5NDEzMjcsLTEyOTMwMDMy
-NTgsNTA0MDAyMTUyLC00NzY1MTY1OCwtNzAwODY3NDc5LDU2Mj
-YxNDE1LDI5OTI4NjkzNyw1OTI1Nzc5NzEsLTE0MTI3ODY1NTNd
-fQ==
+eyJoaXN0b3J5IjpbLTE5MDAxODY5NDgsNjg2ODM0NzMsLTQ2MT
+ExNTkzNiwtMTkxMDI1MjM4OSwtNjcxODUzODY5LDEwODI5NDEz
+MjcsLTEyOTMwMDMyNTgsNTA0MDAyMTUyLC00NzY1MTY1OCwtNz
+AwODY3NDc5LDU2MjYxNDE1LDI5OTI4NjkzNyw1OTI1Nzc5NzEs
+LTE0MTI3ODY1NTNdfQ==
 -->
